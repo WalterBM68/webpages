@@ -51,13 +51,13 @@ table{
     width: 56%;
     float: right;
     padding: 0px 0px 0px 7px;
-    height: 210px;
+    height: 170px;
 }
 .the_second_picture img{
     width: 56%;
     float: left;
     padding: 0px 10px 0px 0px;
-    height: 210px;
+    height: 170px;
 }
 .first_place, .second_place, .third_place{
     padding: 12px;
@@ -99,10 +99,10 @@ h2{
     }
     .city_information{
         float: right;
-        width: 48%;
+        width: 68%;
     }
     #mycity{
-        width: 50%;
+        width: 30%;
         height: 250px;
     }
     .languages{
@@ -110,8 +110,8 @@ h2{
     } 
     .the_first_picture img, .the_second_picture img, .the_third_picture img{
         float: right;
-        height: 250px;
-        width: 59%;
+        height: 200px;
+        width: 55%;
     } 
     .first_paragraph, .second_paragraph .third_paragraph{
         font-size: 20px;

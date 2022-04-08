@@ -173,19 +173,12 @@ p {
     .container {
         width: 80%
     }
-    .the_second_part img{
-        float: left;
-    }
 }
 
 @media only screen and (min-width:45em) {
-    .the_second_part img{
-        float: left;
-    }
     .col-1 {
         width: 4.33%
     }
-
     .col-2 {
         width: 12.66%
     }
@@ -286,13 +279,15 @@ h1 {
     display: block;
     margin: auto;
     margin-top: -15%;
+    width: 60%;
+    height: 200px;
 }
 
 .the_first_part img,
 .the_second_part img {
-    width: 50%;
+    width: 58%;
     float: right;
-    height: 200px;
+    height: 170px;
 }
 .the_second_part img{
     padding: 0px 10px 0px 0px;
@@ -305,4 +300,8 @@ h1 {
     .the_second_part img{
         float: left;
     } 
+    #my_picture{
+        width: 80%;
+        height: 200px;
+    }
 }
